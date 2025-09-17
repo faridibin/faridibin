@@ -1,14 +1,12 @@
 <div align="center">
   
-# Hello, I'm Farid 👋
+![Github Stats](https://greptile-stats.vercel.app/api/widget/faridibin/stats)
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=2F81F7&center=true&vCenter=true&width=435&lines=Full+Stack+Developer)](https://git.io/typing-svg)
+![Github Contributions](https://greptile-stats.vercel.app/api/widget/faridibin/contributions)
 
-Tinkering [Beeterty](https://beeterty.com/)
+![Github Archetype](https://greptile-stats.vercel.app/api/widget/faridibin/archtype)
 
-<div align="center">
-  <img src="" />
-</div>
+![Github Quirk](https://greptile-stats.vercel.app/api/widget/faridibin/quirk)
 
 ### Let's Connect
 
