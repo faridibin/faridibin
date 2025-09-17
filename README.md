@@ -7,7 +7,7 @@
 Tinkering [Beeterty](https://beeterty.com/)
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=faridibin&theme=github-dark-blue&hide_border=true" />
+  <img src="" />
 </div>
 
 ### Let's Connect
