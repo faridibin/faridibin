@@ -1,12 +1,4 @@
 <div align="center">
-  
-![Github Stats](https://greptile-stats.vercel.app/api/widget/faridibin/stats)
-
-![Github Contributions](https://greptile-stats.vercel.app/api/widget/faridibin/contributions)
-
-![Github Archetype](https://greptile-stats.vercel.app/api/widget/faridibin/archtype)
-
-![Github Quirk](https://greptile-stats.vercel.app/api/widget/faridibin/quirk)
 
 ### Let's Connect
 
